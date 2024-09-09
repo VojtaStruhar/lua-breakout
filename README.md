@@ -1,6 +1,8 @@
 # Atari Breakout clone
 
-A game made on gamedev dungeon over ~1.5 hours
+A game made on gamedev dungeon over ~1.5 hours in [Love2D engine](https://love2d.org)
+
+![Screenshot of the game](./showcase-screenshot.png)
 
 **This is a procedural roguelike.**
 
